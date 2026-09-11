@@ -185,32 +185,15 @@ analytics/
 
 ## `root@analyst:~/projects# ./scan-projects.sh`
 
-### `[01] Sales Dashboard & KPI Analysis`
-
 ```text
-TYPE        Business Intelligence / Portfolio
-TARGET      Sales performance & KPIs
+[ .. ] Loading projects...
 
-MODULES
-├── Data ingestion (CSV / SQL)
-├── Cleaning & transformation (pandas)
-├── KPI modeling
-├── Interactive dashboard (Power BI)
-└── Insights report
-```
+>> STATUS: EM CONSTRUÇÃO
 
-### `[02] Exploratory Data Analysis (EDA)`
+    ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  build in progress
 
-```text
-TYPE        Data Analysis / Academic
-TARGET      Dataset exploration
-
-MODULES
-├── Data profiling
-├── Missing value treatment
-├── Distribution & correlation analysis
-├── Outlier detection
-└── Visual findings
+Novos projetos de análise de dados serão
+publicados aqui em breve.
 ```
 
 ---
@@ -296,7 +279,7 @@ MODE:   DATA-DRIVEN
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Luckleal-000000?style=for-the-badge&logo=github&logoColor=00ff66)](https://github.com/Luckleal)
 
-[![LinkedIn](https://img.shields.io/badge/Luckleal-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/Luckleal/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LUCAS_LEAL-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/lucas-leal-b0448427a/)
 
 </div>
 
